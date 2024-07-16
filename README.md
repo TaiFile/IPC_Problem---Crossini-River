@@ -30,7 +30,7 @@ filaHackers e filaServos nos permitem controlar o número de hackers e servos qu
 
 éCapitão é uma variável local que indica qual thread deve invocar remar.
 
-##Solução para Travessia do Rio
+## Solução para Travessia do Rio
 A ideia básica desta solução é que cada chegada atualiza um dos contadores e depois verifica se completa um grupo, seja por ser o quarto de seu tipo ou completando um par misto.
 
 Apresentarei o código para hackers; o código dos servos é simétrico (exceto, claro, que é 1000 vezes maior, cheio de bugs e contém um navegador web embutido)
